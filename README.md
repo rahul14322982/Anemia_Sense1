@@ -38,6 +38,12 @@ Brief description:
   - ROC AUC: 0.95
 
 ## OutPut_Screenshort/ — screenshots of outputs.
+- IT IS FOR (YOU DONT HAVE THE ANEMIA)
 - <p align="center">
-  <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182338_127.0.0.1.jpeg" alt="App Screenshot" width="600">
+  <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182417_127.0.0.1.jpeg" alt="App Screenshot" width="600">
+</p> 
+
+-IT IS FOR (YOU HAVE ANEMIA)
+- <p align="center">
+  <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182417_127.0.0.1.jpeg" alt="App Screenshot" width="600">
 </p> 
