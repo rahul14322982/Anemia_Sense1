@@ -9,9 +9,10 @@ This repository contains:
 - model.pkl — the exported trained model (recommended to be a pipeline including scaler).
 - app.py — Flask web application exposing a HTML form and a JSON endpoint for predictions.
 - templates/ — HTML templates for the web UI.
-- than UI of these Web
-- 
-- OutPut_Screenshort/ — screenshots of outputs.
+- <p align="center">
+  <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182338_127.0.0.1.jpeg" alt="App Screenshot" width="600">
+</p> 
+
 
 ## Dataset
 Brief description:
@@ -36,4 +37,7 @@ Brief description:
   - Recall (Anemic): 0.88
   - ROC AUC: 0.95
 
-##
+## OutPut_Screenshort/ — screenshots of outputs.
+- <p align="center">
+  <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182338_127.0.0.1.jpeg" alt="App Screenshot" width="600">
+</p> 
