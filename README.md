@@ -16,8 +16,8 @@ This repository contains:
 
 ## Dataset
 Brief description:
-- Columns: Age, Gender, Hb, PCV, MCV, MCH, RBC, WBC, Platelets, AnemiaLabel (0 = Not Anemic, 1 = Anemic).
-- Source: (add where the data is from; clinical dataset / simulated / Kaggle link, etc).
+- Columns: Age, Gender, Hb, MCV, MCH, Platelets, AnemiaLabel (0 = Not Anemic, 1 = Anemic).
+- Source: (add where the data is from; PROJECT).
 - Preprocessing:
   - Removed rows with missing critical values.
   - Converted Gender to binary encoding (Male=0, Female=1).
@@ -41,9 +41,9 @@ Brief description:
 - IT IS FOR (YOU DONT HAVE THE ANEMIA)
 - <p align="center">
   <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182417_127.0.0.1.jpeg" alt="App Screenshot" width="600">
-</p> 
+  </p> 
 
--IT IS FOR (YOU HAVE ANEMIA)
+- IT IS FOR (YOU HAVE ANEMIA)
 - <p align="center">
-  <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182417_127.0.0.1.jpeg" alt="App Screenshot" width="600">
-</p> 
+  <img src="https://github.com/rahul14322982/Anemia_Sense1/blob/master/OutPut_Screenshort/Screenshot_2-11-2025_182613_127.0.0.1.jpeg" alt="App Screenshot" width="600">
+  </p> 
